@@ -37,22 +37,7 @@
 
 ## Built With
 
-<a href="https://www.npmjs.com/package/connect-session-sequelize">https://www.npmjs.com/package/connect-session-sequelize</a>
-<br>
-<a href="https://www.npmjs.com/package/express-session">https://www.npmjs.com/package/express-session</a>
-<br>
-<a href="https://www.npmjs.com/package/bcrypt">https://www.npmjs.com/package/bcrypt</a>
-<br>
-<a href="https://www.npmjs.com/package/dotenv">https://www.npmjs.com/package/dotenv</a>
-<br>
-<a href="https://www.npmjs.com/package/sequelize">https://www.npmjs.com/package/sequelize</a>
-<br>
-<a href="https://www.npmjs.com/package/mysql2">https://www.npmjs.com/package/mysql2</a>
-<br>
-<a href="https://www.npmjs.com/package/express-handlebars">https://www.npmjs.com/package/express-handlebars</a>
-<br>
-<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
-
+<p>List coming soon</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -63,19 +48,7 @@
 
 ## Installation
 
-<p>npm i express-handlebars</p>
-<br>
-<p>npm i mysql2</p>
-<br>
-<p>npm i sequelize</p>
-<br>
-<p>npm i dotenv</p>
-<br>
-<p>npm i bcrypt</p>
-<br>
-<p>npm i express-session</p>
-<br>
-<p>npm i connect-session-sequelize</p>
+<p>List coming soon</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
