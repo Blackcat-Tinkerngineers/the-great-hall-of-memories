@@ -13,14 +13,18 @@
 
   ## About the Project
 
-<p>Model-View-Controller application built with capability to create username, password and blog styled content</p>
+<p>MERN Application built as an e-library allows first-time users to create an account or enter login info from the first-time visit. Once signed on, the user will browse through the catalog of favorite titles or new adventures to explore. </p>
 </br>
 
-<P>Deployed URL</p>
-<a href= "https://tech-blogrrr.herokuapp.com/">https://tech-blogrrr.herokuapp.com/</a>
+
+ ## Demo & Deployed URL: <a href= "https://evening-shelf-18744.herokuapp.com/">https://evening-shelf-18744.herokuapp.com/</a>
+
+![image](https://user-images.githubusercontent.com/88634637/155303276-e1a53802-38ae-4679-99d4-9ba663093e9d.png)
 <br>
-</br>
-<a href="https://github.com/Blackcat-Tinkerngineers/the-great-hall-of-memories">https://github.com/Blackcat-Tinkerngineers/the-great-hall-of-memories</a>
+![image](https://user-images.githubusercontent.com/88634637/155303369-a8b3ac9c-e317-42b6-9fdd-013fbadcaee1.png)
+<br>
+![image](https://user-images.githubusercontent.com/88634637/155303454-58546343-26c3-4ce7-8681-6aaeb3912e71.png)
+
 
 
 
@@ -35,25 +39,18 @@
 
 <a href="https://www.npmjs.com/package/connect-session-sequelize">https://www.npmjs.com/package/connect-session-sequelize</a>
 <br>
-</br>
 <a href="https://www.npmjs.com/package/express-session">https://www.npmjs.com/package/express-session</a>
 <br>
-</br>
 <a href="https://www.npmjs.com/package/bcrypt">https://www.npmjs.com/package/bcrypt</a>
 <br>
-</br>
 <a href="https://www.npmjs.com/package/dotenv">https://www.npmjs.com/package/dotenv</a>
 <br>
-</br>
 <a href="https://www.npmjs.com/package/sequelize">https://www.npmjs.com/package/sequelize</a>
 <br>
-</br>
 <a href="https://www.npmjs.com/package/mysql2">https://www.npmjs.com/package/mysql2</a>
 <br>
-</br>
 <a href="https://www.npmjs.com/package/express-handlebars">https://www.npmjs.com/package/express-handlebars</a>
 <br>
-</br>
 <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
 
 
@@ -68,22 +65,16 @@
 
 <p>npm i express-handlebars</p>
 <br>
-</br>
 <p>npm i mysql2</p>
 <br>
-</br>
 <p>npm i sequelize</p>
 <br>
-</br>
 <p>npm i dotenv</p>
 <br>
-</br>
 <p>npm i bcrypt</p>
 <br>
-</br>
 <p>npm i express-session</p>
 <br>
-</br>
 <p>npm i connect-session-sequelize</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -130,7 +121,9 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 👩🏻‍💻<a href="https://www.linkedin.com/in/chelsiebgonsalves/">https://www.linkedin.com/in/chelsiebgonsalves/</a>
 <br>
 </br>
-🧁<a href="https://github.com/Blackcat-Tinkerngineers/Tech-Blogger">https://github.com/Blackcat-Tinkerngineers/Tech-Blogger</a>
+🧁<br>
+</br>
+<a href="https://github.com/Blackcat-Tinkerngineers/the-great-hall-of-memories">https://github.com/Blackcat-Tinkerngineers/the-great-hall-of-memories</a>
 <br>
 </br>
 <p align="right">(<a href="#top">back to top</a>)</p>
